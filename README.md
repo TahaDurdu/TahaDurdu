@@ -1,3 +1,4 @@
+[![MasterHead](https://www.iakademi.com/wp-content/uploads/2022/02/developer-gelistirici-nedir.jpg)
 <h1 align="center">Hi 👋, I'm Taha</h1>
 <h3 align="center">.NET Developer</h3>
 <h3 >👨‍💻  I’m currently working on Angular</h3>
